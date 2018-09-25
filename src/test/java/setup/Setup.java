@@ -7,10 +7,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Setup {
 
-    public static WebDriver driver = new ChromeDriver();
+    public static WebDriver driver = BrowserOptions.SelectBrowser(Browser.Chrome);
     @BeforeClass
     public static void initialize(){
-        BrowserOptions.SelectBrowser(Browser.Chrome);
+
         driver.manage().deleteAllCookies();
         driver.navigate().to("http://www.google.com.br");
     }

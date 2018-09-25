@@ -1,14 +1,20 @@
 package setup;
 
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 public class BrowserOptions {
 
-    public static void SelectBrowser(Browser browser){
+    public static WebDriver SelectBrowser(Browser browser){
+        WebDriver webDriver;
         switch (browser){
-            case Chrome:
+            case Chrome:{
                 ChromeOptions chromeOptions = new ChromeOptions();
-                break;
+                return webDriver = new ChromeDriver(chromeOptions);
+            }
+
         }
+        return null;
     }
 }
