@@ -1,4 +1,4 @@
-package runners;
+package test;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 import pages.FirstPage;
 import setup.Setup;
 
-public class SearchRunnerTest extends Setup {
+public class SearchTest extends Setup {
 
     private FirstPage firstPage;
 
