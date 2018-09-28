@@ -1,4 +1,4 @@
-package test;
+package steps;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 import pages.FirstPage;
 import setup.Setup;
 
-public class SearchTest extends Setup {
+public class SearchSteps extends Setup {
 
     private FirstPage firstPage;
 
