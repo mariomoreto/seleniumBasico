@@ -15,6 +15,9 @@ public class MainPage  {
     @FindBy(how = How.LINK_TEXT, using = "Dropdown")
     private WebElement menuDropDownList;
 
+    @FindBy(how = How.LINK_TEXT, using = "File Upload")
+    private WebElement menuFileUpload;
+
     public MainPage abrirFormAuthenthication(){
         menuFormAuthenthication.click();
         return this;
@@ -30,4 +33,8 @@ public class MainPage  {
         return this;
     }
 
+    public MainPage abrirFileUpload(){
+        menuFileUpload.click();
+        return this;
+    }
 }

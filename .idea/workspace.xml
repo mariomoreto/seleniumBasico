@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4427dcc5-c1a5-4471-9722-8200cac4c8ef" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DropDown/DropDownPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/DropDownStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/teste" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/FileUpload/FileUploadPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/FileUpload/FileUploadedPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/FileUploadSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/setup/BrowserOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/setup/BrowserOptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/setup/Setup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/setup/Setup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/setup/BrowserOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/setup/BrowserOptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/MainPage.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +20,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Setup.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Setup.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/setup/Setup.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -32,11 +32,56 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="FileUploadPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/FileUpload/FileUploadPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileUploadSteps.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steps/FileUploadSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileUploadedPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/FileUpload/FileUploadedPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teste" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/teste">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file leaf-file-name="BrowserOptions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/setup/BrowserOptions.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="14" column="67" lean-forward="true" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+              <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -45,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/DropDown/DropDownPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#521#522#0" expanded="true" />
@@ -71,7 +116,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/steps/CheckboxesSteps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#626#627#0" expanded="true" />
@@ -83,35 +128,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckboxesPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/Checkboxes/CheckboxesPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FormAuthenticationSteps.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/steps/FormAuthenticationSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+            <state relative-caret-position="157">
+              <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,9 +173,12 @@
         <option value="$PROJECT_DIR$/src/test/java/steps/CheckboxesSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/setup/BrowserOptions.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/DropDownStep.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/MainPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/DropDown/DropDownPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/setup/Setup.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/FileUpload/FileUploadPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/FileUpload/FileUploadedPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steps/FileUploadSteps.java" />
       </list>
     </option>
   </component>
@@ -191,6 +215,13 @@
               <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="seleniumBasico" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumBasico" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -215,7 +246,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="DropDown" type="462c0819:PsiDirectoryNode" />
+              <item name="FileUpload" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
@@ -250,6 +281,9 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="pages" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -263,7 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DropDownStep">
+  <component name="RunManager" selected="JUnit.FileUploadSteps">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -313,6 +347,52 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="FileUploadSteps" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="steps.FileUploadSteps" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FileUploadSteps.realizarUpload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="steps.FileUploadSteps" />
+      <option name="METHOD_NAME" value="realizarUpload" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="FormAuthenticationSteps" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenium" />
       <extension name="coverage">
@@ -327,52 +407,6 @@
       <option name="MAIN_CLASS_NAME" value="steps.FormAuthenticationSteps" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="FormAuthenticationSteps.autenticacaoComSucesso" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="steps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="steps.FormAuthenticationSteps" />
-      <option name="METHOD_NAME" value="autenticacaoComSucesso" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="FormAuthenticationSteps.autenticacaoSemSucesso" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="steps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="steps.FormAuthenticationSteps" />
-      <option name="METHOD_NAME" value="autenticacaoSemSucesso" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -422,18 +456,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.FormAuthenticationSteps" />
-      <item itemvalue="JUnit.FormAuthenticationSteps.autenticacaoComSucesso" />
-      <item itemvalue="JUnit.FormAuthenticationSteps.autenticacaoSemSucesso" />
       <item itemvalue="JUnit.CheckboxesSteps" />
       <item itemvalue="JUnit.DropDownStep" />
+      <item itemvalue="JUnit.FileUploadSteps" />
+      <item itemvalue="JUnit.FileUploadSteps.realizarUpload" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FileUploadSteps" />
+        <item itemvalue="JUnit.FileUploadSteps.realizarUpload" />
         <item itemvalue="JUnit.DropDownStep" />
         <item itemvalue="JUnit.CheckboxesSteps" />
         <item itemvalue="JUnit.FormAuthenticationSteps" />
-        <item itemvalue="JUnit.FormAuthenticationSteps.autenticacaoSemSucesso" />
-        <item itemvalue="JUnit.FormAuthenticationSteps.autenticacaoComSucesso" />
       </list>
     </recent_temporary>
   </component>
@@ -451,35 +485,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 07m 08s.xml">
-      <configuration name="CheckboxesSteps" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 08m 25s.xml">
-      <configuration name="CheckboxesSteps" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 11m 05s.xml">
-      <configuration name="CheckboxesSteps" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 14m 33s.xml">
-      <configuration name="CheckboxesSteps" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 14m 59s.xml">
-      <configuration name="CheckboxesSteps" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DropDownStep - 2018.10.25 at 13h 23m 47s.xml">
-      <configuration name="DropDownStep" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DropDownStep - 2018.10.25 at 13h 24m 03s.xml">
-      <configuration name="DropDownStep" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DropDownStep - 2018.10.25 at 13h 24m 31s.xml">
-      <configuration name="DropDownStep" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DropDownStep - 2018.10.25 at 13h 25m 02s.xml">
       <configuration name="DropDownStep" configurationId="JUnit" />
     </history-entry>
     <history-entry file="DropDownStep - 2018.10.25 at 13h 26m 51s.xml">
       <configuration name="DropDownStep" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DropDownStep - 2018.10.25 at 13h 28m 11s.xml">
+      <configuration name="DropDownStep" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileUploadSteps - 2018.10.25 at 13h 40m 12s.xml">
+      <configuration name="FileUploadSteps" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileUploadSteps - 2018.10.25 at 13h 40m 46s.xml">
+      <configuration name="FileUploadSteps" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileUploadSteps_realizarUpload - 2018.10.25 at 13h 41m 22s.xml">
+      <configuration name="FileUploadSteps.realizarUpload" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileUploadSteps - 2018.10.25 at 13h 45m 42s.xml">
+      <configuration name="FileUploadSteps" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileUploadSteps - 2018.10.25 at 13h 46m 06s.xml">
+      <configuration name="FileUploadSteps" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileUploadSteps_realizarUpload - 2018.10.25 at 13h 46m 26s.xml">
+      <configuration name="FileUploadSteps.realizarUpload" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileUploadSteps - 2018.10.25 at 13h 46m 42s.xml">
+      <configuration name="FileUploadSteps" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -525,8 +559,14 @@
           <line>12</line>
           <properties />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steps/FileUploadSteps.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -609,7 +649,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/steps/CheckboxesSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#626#627#0" expanded="true" />
@@ -620,20 +660,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/setup/BrowserOptions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="14" column="67" lean-forward="true" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
         </state>
       </provider>
     </entry>
@@ -650,7 +680,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/DropDown/DropDownPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#521#522#0" expanded="true" />
@@ -663,6 +693,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/FileUpload/FileUploadPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/teste">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/FileUpload/FileUploadedPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/FileUploadSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
