@@ -6,9 +6,6 @@ import org.openqa.selenium.support.How;
 
 public class FormAuthenticationPage {
 
-    @FindBy(how = How.NAME, using = "q")
-    private WebElement searchBox;
-
     @FindBy(how = How.ID, using = "username")
     private WebElement cmpUsuario;
 
