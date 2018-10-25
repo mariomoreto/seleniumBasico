@@ -12,6 +12,9 @@ public class MainPage  {
     @FindBy(how = How.LINK_TEXT, using = "Checkboxes")
     private WebElement menuCheckboxes;
 
+    @FindBy(how = How.LINK_TEXT, using = "Dropdown")
+    private WebElement menuDropDownList;
+
     public MainPage abrirFormAuthenthication(){
         menuFormAuthenthication.click();
         return this;
@@ -19,6 +22,11 @@ public class MainPage  {
 
     public MainPage abrirCheckboxes(){
         menuCheckboxes.click();
+        return this;
+    }
+
+    public MainPage abrirDropDownList(){
+        menuDropDownList.click();
         return this;
     }
 

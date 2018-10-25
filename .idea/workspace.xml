@@ -2,49 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4427dcc5-c1a5-4471-9722-8200cac4c8ef" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Checkboxes/CheckboxesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/FormAuthentication/FormAuthenticationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/FormAuthentication/SecureAreaPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/CheckboxesSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DropDown/DropDownPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/DropDownStep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/FirstPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/setup/BrowserOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/setup/BrowserOptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/setup/Setup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/setup/Setup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/SearchSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/FormAuthenticationSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/FirstPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/setup/Setup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/setup/Setup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/SearchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/setup/BrowserOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/setup/BrowserOptions.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,16 +20,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Setup.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Setup.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/setup/Setup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="240">
+              <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckboxesSteps.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BrowserOptions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/setup/BrowserOptions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="67" lean-forward="true" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DropDownPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/DropDown/DropDownPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DropDownStep.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steps/DropDownStep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="64" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckboxesSteps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/steps/CheckboxesSteps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -108,8 +110,8 @@
       <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+            <state relative-caret-position="210">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,10 +148,13 @@
         <option value="$PROJECT_DIR$/src/test/java/steps/FormAuthenticationSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/SecureAreaPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/FormAuthentication/MainPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/MainPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/setup/Setup.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/Checkboxes/CheckboxesPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/CheckboxesSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/setup/BrowserOptions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steps/DropDownStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/DropDown/DropDownPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/setup/Setup.java" />
       </list>
     </option>
   </component>
@@ -209,6 +214,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="DropDown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumBasico" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="setup" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -249,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CheckboxesSteps">
+  <component name="RunManager" selected="JUnit.DropDownStep">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -265,6 +279,29 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="steps" />
       <option name="MAIN_CLASS_NAME" value="steps.CheckboxesSteps" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="DropDownStep" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="steps.DropDownStep" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -388,9 +425,11 @@
       <item itemvalue="JUnit.FormAuthenticationSteps.autenticacaoComSucesso" />
       <item itemvalue="JUnit.FormAuthenticationSteps.autenticacaoSemSucesso" />
       <item itemvalue="JUnit.CheckboxesSteps" />
+      <item itemvalue="JUnit.DropDownStep" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DropDownStep" />
         <item itemvalue="JUnit.CheckboxesSteps" />
         <item itemvalue="JUnit.FormAuthenticationSteps" />
         <item itemvalue="JUnit.FormAuthenticationSteps.autenticacaoSemSucesso" />
@@ -412,27 +451,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 04m 18s.xml">
-      <configuration name="CheckboxesSteps" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 04m 59s.xml">
-      <configuration name="CheckboxesSteps" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FormAuthenticationSteps - 2018.10.25 at 13h 05m 11s.xml">
-      <configuration name="FormAuthenticationSteps" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 05m 27s.xml">
-      <configuration name="CheckboxesSteps" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 05m 35s.xml">
-      <configuration name="CheckboxesSteps" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 06m 09s.xml">
-      <configuration name="CheckboxesSteps" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 06m 49s.xml">
-      <configuration name="CheckboxesSteps" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 07m 08s.xml">
       <configuration name="CheckboxesSteps" configurationId="JUnit" />
     </history-entry>
@@ -441,6 +459,27 @@
     </history-entry>
     <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 11m 05s.xml">
       <configuration name="CheckboxesSteps" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 14m 33s.xml">
+      <configuration name="CheckboxesSteps" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckboxesSteps - 2018.10.25 at 13h 14m 59s.xml">
+      <configuration name="CheckboxesSteps" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DropDownStep - 2018.10.25 at 13h 23m 47s.xml">
+      <configuration name="DropDownStep" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DropDownStep - 2018.10.25 at 13h 24m 03s.xml">
+      <configuration name="DropDownStep" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DropDownStep - 2018.10.25 at 13h 24m 31s.xml">
+      <configuration name="DropDownStep" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DropDownStep - 2018.10.25 at 13h 25m 02s.xml">
+      <configuration name="DropDownStep" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DropDownStep - 2018.10.25 at 13h 26m 51s.xml">
+      <configuration name="DropDownStep" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -457,7 +496,7 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3291536" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -540,34 +579,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/setup/BrowserOptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="85" selection-start-line="85" selection-end-line="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/setup/Setup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -601,6 +616,55 @@
             <element signature="e#693#694#0" expanded="true" />
             <element signature="e#908#909#0" expanded="true" />
             <element signature="e#975#976#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/setup/BrowserOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="67" lean-forward="true" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/DropDownStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="64" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/DropDown/DropDownPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/setup/Setup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

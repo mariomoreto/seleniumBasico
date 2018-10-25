@@ -10,6 +10,7 @@ public class BrowserOptions {
         WebDriver webDriver;
         switch (browser){
             case Chrome:{
+                //System.setProperty("webdriver.chrome.driver", "/path/to/chromedriver");
                 ChromeOptions chromeOptions = new ChromeOptions();
                 return webDriver = new ChromeDriver(chromeOptions);
             }
